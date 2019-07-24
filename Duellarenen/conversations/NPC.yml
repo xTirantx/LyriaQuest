@@ -1,0 +1,13 @@
+quester: Filler
+first: start
+stop: false
+#==============================================================================================================
+NPC_options:
+  start:
+    text: 'ich bin nur zum füllen da'
+    pointer: füllmasse
+
+#==============================================================================================================
+player_options:
+  füllmasse:
+    text: 'Ich auch'
