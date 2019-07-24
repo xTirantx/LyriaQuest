@@ -1,6 +1,0 @@
-#///////////////////////////////////////////////////////////////////////////////////////////
-duell_tod: die cancel respawn:261;67;-4299;Lyria;0;0 events:inv_clear,message_tod,obj_del_kill
-
-duell_kill: kill 1 required:hat_tag_duell events:inv_clear,sieg_tp,message_tod,obj_del_tod
-
-#=======
